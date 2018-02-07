@@ -1,0 +1,17 @@
+body{
+    background:#ccc;
+}
+#magazine{
+    width:576px;
+    height:600px;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    /*border: ridge 1px #000000;*/
+}
+#magazine .turn-page{
+    background-color:lightblue;
+    background-size:100% 100%;
+}
